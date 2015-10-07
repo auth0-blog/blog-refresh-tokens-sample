@@ -1,0 +1,18 @@
+{
+  "name": "refresh-tokens-sample",
+  "version": "1.0.0",
+  "description": "A simple refresh token issuing server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "jsonwebtoken": "^5.4.0",
+    "mongoose": "^4.1.10",
+    "oauth2-server": "^2.4.1"
+  }
+}
